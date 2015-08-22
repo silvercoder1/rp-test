@@ -6,4 +6,4 @@ this is silvercoder 1 pushing shit to ghub brah..
 
 
 
-ann. this if the editoooo
+ann. this if the editor
