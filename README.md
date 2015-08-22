@@ -1,9 +1,3 @@
-YO yo yo,
+this is a sample project..
 
-sup people
-
-this is silvercoder 1 pushing shit to ghub brah..
-
-
-
-ann. this if the editor
+<h1><i>1. Dependencies</i></h1>
